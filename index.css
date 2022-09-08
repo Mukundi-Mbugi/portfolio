@@ -17,3 +17,7 @@ ul li a{
 ul{
     display: flex !important;
 }
+button a{
+    text-decoration: none;
+    background-color: transparent;
+}
